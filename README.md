@@ -43,30 +43,34 @@ Explore "What-If": The Forecasting page has a "What-If" scenario planner. Use it
 
 > More images: see the [/assets/screens](assets/screens/) folder.
 
-### Highlights
+## Screenshots
+
+> More images live in [/assets/screens](assets/screens/).
+
 ![Main Dashboard](<assets/screens/Main Dashboard.png>)
-*Overview of net worth, assets vs. liabilities, and recent activity.*
-
-![Account Transactions](<assets/screens/Account Transaction Overview.png>)
-*Fast filtering and bulk actions for transactions.*
-
-![Income Overview](<assets/screens/Income Overview.png>)
-*Income trends and allocation by category.*
-
+![Lock Screen](<assets/screens/Lock Screen.png>)
+![Account Manager](<assets/screens/Account Manager.png>)
+![Account Transaction Overview](<assets/screens/Account Transaction Overview.png>)
+![Add New Home](<assets/screens/Add New Home.png>)
+![Bulk Expense Entry](<assets/screens/Bulk Expense Entry.png>)
+![CC Transaction Overview](<assets/screens/CC Transaction Overview.png>)
 ![Credit Card Overview](<assets/screens/Credit Card Overview.png>)
-*Balances, statements, and payment plan helpers.*
-
+![Crypto](<assets/screens/Crypto.png>)
 ![Debt Tracker](<assets/screens/Debt Tracker.png>)
-*Amortization progress and payoff scenarios.*
-
+![Goals](<assets/screens/Goals.png>)
+![Home – Mortgage Details](<assets/screens/Home - Mortgage Details.png>)
 ![Home Equity Overview](<assets/screens/Home Equity Overview.png>)
-*Equity = market value – loan balance + improvements.*
-
-![Stocks Overview](<assets/screens/Stocks Overview.png>)
-*Holdings, cost basis, and simple performance view.*
-
+![Home Loan Overview](<assets/screens/Home Loan Overview.png>)
+![Home Loan Payment Tracker](<assets/screens/Home Loan Payment Tracker.png>)
+![Income Allocation](<assets/screens/Income Allocation.png>)
+![Income Management](<assets/screens/Income Management.png>)
+![Income Overview](<assets/screens/Income Overview.png>)
+![Manage Spending Categories](<assets/screens/Manage Spending Categories.png>)
+![Other Assets](<assets/screens/Other Assets.png>)
+![Retirement Tracking](<assets/screens/Retirment Tracking.png>)
 ![Settings Page](<assets/screens/Settings Page.png>)
-*Local-only, offline settings—no accounts, no tracking.*
+![Stocks Overview](<assets/screens/Stocks Overview.png>)
+![Transfer Between Accounts](<assets/screens/Transfer Between Accounts.png>)
 
 
 ## Download
