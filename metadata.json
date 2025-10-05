@@ -1,0 +1,5 @@
+{
+  "name": "FinDash-v5",
+  "description": "A personal finance dashboard application that runs completely offline to track accounts, investments, income, and debts.",
+  "requestFramePermissions": []
+}

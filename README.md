@@ -1,78 +1,20 @@
-👉 **Download:** https://github.com/bbcclouds/findashboard/releases/latest
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-# Fin Dashboard — Offline Personal Finance Dashboard
+# Run and deploy your AI Studio app
 
-**No accounts. No tracking. No subscriptions.**  
-Local-only Windows app that helps you track net worth, accounts, debts, and investments.
+This contains everything you need to run your app locally.
 
-Welcome to Fin Dashboard!
-This guide will walk you through the key features of your personal finance dashboard. FinDash is designed to be completely offline and private. All your data is stored securely in your your computer, and never leaves your device.
+View your app in AI Studio: https://ai.studio/apps/drive/160p7iMHjYzYjFnzDWmKjKEgBBFaG2lmC
 
-Getting Started: A Quick Tour
-Add Accounts: Navigate to the Accounts page to add your checking, savings, or other bank accounts. This is the foundation of your financial picture.
-Track Income: Go to the Income page to define your income sources (like 'Salary') and then log your earnings as they come in.
-List Liabilities: Use the Debts and Credit Cards pages to log any loans, recurring commitments, or credit card balances.
-Add Assets: Catalog your investments on the Stocks, Crypto, Retirement, Home, and Other Assets pages.
-Watch it Come Together: Return to the Dashboard to see a complete overview of your net worth and financial health.
-Key Features by Page
-Dashboard
-Your central hub. Get a high-level view of your Net Worth, Total Assets, and Total Liabilities. See your performance over time and your asset allocation at a glance.
+## Run Locally
 
-Accounts & Credit Cards
-Manage bank and credit card accounts. Log transactions, create sub-accounts for budgeting (e.g., "Vacation Fund"), and manage spending categories. View detailed transaction histories for each account.
-
-Debts & Home
-Track all your liabilities, from formal loans (mortgages, car loans) to informal commitments. The Home page specifically helps you track your real estate equity, mortgage details, and home improvement investments.
-
-Investments (Stocks, Crypto, Retirement)
-Log all your investment holdings. Update their prices periodically to keep your net worth accurate. The Retirement page allows you to track contributions and see portfolio growth separately.
-
-Calculator & Forecasting
-The Calculator is a powerful budgeting tool to allocate your income. The Forecasting tool projects your future cash flow based on recurring income and expenses you define, helping you anticipate financial highs and lows.
-
-Settings
-Customize your app name, set a password for privacy, and manage your data. Here you can create a full backup of your data or restore from a backup file. You can also export specific data sets (like transactions) to a CSV file.
-
-Tips for Best Use
-Update Regularly: For the most accurate net worth, update the prices of your stocks, crypto, and other assets weekly or monthly.
-Use Sub-Accounts: The sub-account feature on the Accounts page is great for "envelope" style budgeting. Create sub-accounts for specific goals like 'Emergency Fund' or 'New Car'.
-Backup Your Data: Since all data is local, it's crucial to use the Backup feature in Settings regularly. Save the backup file in a safe place.
-Explore "What-If": The Forecasting page has a "What-If" scenario planner. Use it to see how a large purchase or a bonus might impact your future cash flow without affecting your actual data.
-
-## Screenshots
-
-> More images: see the [/assets/screens](assets/screens/) folder.
-
-## Screenshots
-
-> More images live in [/assets/screens](assets/screens/).
-
-![Main Dashboard](<assets/screens/Main Dashboard.png>)
-![Lock Screen](<assets/screens/Lock Screen.png>)
-![Account Manager](<assets/screens/Account Manager.png>)
-![Account Transaction Overview](<assets/screens/Account Transaction Overview.png>)
-![Add New Home](<assets/screens/Add New Home.png>)
-![Bulk Expense Entry](<assets/screens/Bulk Expense Entry.png>)
-![CC Transaction Overview](<assets/screens/CC Transaction Overview.png>)
-![Credit Card Overview](<assets/screens/Credit Card Overview.png>)
-![Crypto](<assets/screens/Crypto.png>)
-![Debt Tracker](<assets/screens/Debt Tracker.png>)
-![Goals](<assets/screens/Goals.png>)
-![Home – Mortgage Details](<assets/screens/Home - Mortgage Details.png>)
-![Home Equity Overview](<assets/screens/Home Equity Overview.png>)
-![Home Loan Overview](<assets/screens/Home Loan Overview.png>)
-![Home Loan Payment Tracker](<assets/screens/Home Loan Payment Tracker.png>)
-![Income Allocation](<assets/screens/Income Allocation.png>)
-![Income Management](<assets/screens/Income Management.png>)
-![Income Overview](<assets/screens/Income Overview.png>)
-![Manage Spending Categories](<assets/screens/Manage Spending Categories.png>)
-![Other Assets](<assets/screens/Other Assets.png>)
-![Retirement Tracking](<assets/screens/Retirment Tracking.png>)
-![Settings Page](<assets/screens/Settings Page.png>)
-![Stocks Overview](<assets/screens/Stocks Overview.png>)
-![Transfer Between Accounts](<assets/screens/Transfer Between Accounts.png>)
+**Prerequisites:**  Node.js
 
 
-## Download
-Go to **Releases** (right → sidebar) and grab the latest `.zip` or installer.
-
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

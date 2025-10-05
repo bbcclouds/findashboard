@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>FinDash</title>
+
+  <!-- Content Security Policy: allow Tailwind CDN script and common Vite dev origins during development -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://cdn.tailwindcss.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' http://localhost:3000 http://localhost:5173 ws://localhost:5173; object-src 'none'; base-uri 'self'; frame-ancestors 'none';">
+
+    <!-- Tailwind CDN is fine; remove if you switched to local build -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- If you keep an icon, make it relative -->
+    <link rel="icon" href="./vite.svg" />
+  </head>
+  <body class="bg-gray-900 text-gray-100">
+    <div id="root"></div>
+
+    <!-- IMPORTANT: relative path, and only ONE entry -->
+    <script type="module" src="./index.tsx"></script>
+  </body>
+</html>
