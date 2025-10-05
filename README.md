@@ -39,6 +39,36 @@ Use Sub-Accounts: The sub-account feature on the Accounts page is great for "env
 Backup Your Data: Since all data is local, it's crucial to use the Backup feature in Settings regularly. Save the backup file in a safe place.
 Explore "What-If": The Forecasting page has a "What-If" scenario planner. Use it to see how a large purchase or a bonus might impact your future cash flow without affecting your actual data.
 
+## Screenshots
+
+> More images: see the [/assets/screens](assets/screens/) folder.
+
+### Highlights
+![Main Dashboard](<assets/screens/Main Dashboard.png>)
+*Overview of net worth, assets vs. liabilities, and recent activity.*
+
+![Account Transactions](<assets/screens/Account Transaction Overview.png>)
+*Fast filtering and bulk actions for transactions.*
+
+![Income Overview](<assets/screens/Income Overview.png>)
+*Income trends and allocation by category.*
+
+![Credit Card Overview](<assets/screens/Credit Card Overview.png>)
+*Balances, statements, and payment plan helpers.*
+
+![Debt Tracker](<assets/screens/Debt Tracker.png>)
+*Amortization progress and payoff scenarios.*
+
+![Home Equity Overview](<assets/screens/Home Equity Overview.png>)
+*Equity = market value – loan balance + improvements.*
+
+![Stocks Overview](<assets/screens/Stocks Overview.png>)
+*Holdings, cost basis, and simple performance view.*
+
+![Settings Page](<assets/screens/Settings Page.png>)
+*Local-only, offline settings—no accounts, no tracking.*
+
+
 ## Download
 Go to **Releases** (right → sidebar) and grab the latest `.zip` or installer.
 
